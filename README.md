@@ -1,3 +1,3 @@
 # DecisionTree_datamining_
 
-DecisionTree on Mushroom Dataset.
+DecisionTree on Mushroom Dataset in R.
